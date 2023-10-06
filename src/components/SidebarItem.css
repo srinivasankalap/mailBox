@@ -1,0 +1,7 @@
+.div {
+  text-align: center;
+}
+
+.div:hover {
+  background-color: #051955;
+}

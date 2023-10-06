@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('../../mail/src/Assets/image.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+
 }
 
 code {

@@ -1,0 +1,7 @@
+
+
+.btn:focus {
+    outline-color: transparent;
+    outline-style:solid;
+    background-color: #051955;
+}
