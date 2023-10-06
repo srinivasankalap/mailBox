@@ -43,9 +43,9 @@ const Notification = (props) => {
           <span className="title">{message} </span>
         </div>
         <div className="actions">
-          <button className="history" type="button" onClick={clickHandler}>
+          {/* <button className="history" type="button" onClick={clickHandler}>
             OK
-          </button>
+          </button> */}
         </div>
       </div>
     </div>
