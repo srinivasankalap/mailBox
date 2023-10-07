@@ -8,7 +8,6 @@ import { FiStar } from "react-icons/fi";
 import { MdDrafts } from "react-icons/md";
 import { BsTrash } from "react-icons/bs";
 import { MdMail } from "react-icons/md";
-import { FaFolder } from "react-icons/fa";
 import SidebarItem from "./SidebarItem";
 import './MailboxSideBar.css';
 
